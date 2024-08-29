@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaikshameervali
 - 👀 I’m interested in ...Cybersecurity
-- 🌱 I’m currently learning ...Eithical Hacking
+- 🌱 I’m currently learning ...Ethical Hacking
 - 💞️ I’m looking to collaborate on ...patch management, hardening network/system
 - 📫 How to reach me ...through email <shameer.vali@gmail.com>
 - 😄 Pronouns: ...
